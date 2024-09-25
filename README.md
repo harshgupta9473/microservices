@@ -1,0 +1,1 @@
+- installing github.com/go-playground/validator
